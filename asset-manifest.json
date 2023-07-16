@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/bike/static/js/main.83bafb69.js",
+    "static/media/BMJUA_ttf.ttf": "/bike/static/media/BMJUA_ttf.bf12d2d886260d73277b.ttf",
+    "static/media/BMHANNAAir_ttf.ttf": "/bike/static/media/BMHANNAAir_ttf.d0c38d74f11fd837be79.ttf",
+    "static/media/roadBg.png": "/bike/static/media/roadBg.cd04d5ec17ed1a2532c7.png",
+    "static/media/homeBgPhoto.png": "/bike/static/media/homeBgPhoto.f07ec871d45e23b5f48e.png",
+    "static/media/bike.png": "/bike/static/media/bike.bbb21bd2ea116a803fae.png",
+    "index.html": "/bike/index.html",
+    "main.83bafb69.js.map": "/bike/static/js/main.83bafb69.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.83bafb69.js"
+  ]
+}
